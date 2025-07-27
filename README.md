@@ -57,6 +57,7 @@ This repository showcases how an agentic AI can read a research paper, summarize
 ---
 
 ## Creating an Agentic AI
+This script was retrieved from ChatGPT Agent mode after requesting the generation of presentation slides using the following procedure.
 
 An agentic AI autonomously orchestrates multiple steps:
 
